@@ -1,4 +1,8 @@
 _repo: The-Hardy-Country-Literary-landmarks-of-the-Wessex-Novels_46801
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Harper, Charles G. (Charles George)
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '39133'
     url: http://www.gutenberg.org/2009/agents/39133
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46801#The-Hardy-Country-Literary-landmarks-of-the-Wessex-Novels
 gutenberg_issued: '2014-09-07'
 gutenberg_type: Text
 identifiers:
